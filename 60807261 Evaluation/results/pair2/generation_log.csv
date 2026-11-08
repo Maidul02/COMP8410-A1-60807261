@@ -1,0 +1,337 @@
+model,setting,value,product,prompt_id,eval_prompt,seed,seconds,memory_mb,safety_flag,file
+dreambooth,main,800.0,teapot,0,a teapot on top of a wooden floor,0,3.458587408065796,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p0_seed0.png
+dreambooth,main,800.0,teapot,0,a teapot on top of a wooden floor,1,3.390287399291992,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p0_seed1.png
+dreambooth,main,800.0,teapot,0,a teapot on top of a wooden floor,2,3.413670539855957,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p0_seed2.png
+dreambooth,main,800.0,teapot,0,a teapot on top of a wooden floor,3,3.4319868087768555,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p0_seed3.png
+dreambooth,main,800.0,teapot,1,a teapot on top of a white rug,0,3.39034366607666,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p1_seed0.png
+dreambooth,main,800.0,teapot,1,a teapot on top of a white rug,1,3.403606653213501,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p1_seed1.png
+dreambooth,main,800.0,teapot,1,a teapot on top of a white rug,2,3.334526300430298,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p1_seed2.png
+dreambooth,main,800.0,teapot,1,a teapot on top of a white rug,3,3.333890199661255,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p1_seed3.png
+dreambooth,main,800.0,teapot,2,a teapot with a city in the background,0,3.3454360961914062,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p2_seed0.png
+dreambooth,main,800.0,teapot,2,a teapot with a city in the background,1,3.467226266860962,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p2_seed1.png
+dreambooth,main,800.0,teapot,2,a teapot with a city in the background,2,3.5069515705108643,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p2_seed2.png
+dreambooth,main,800.0,teapot,2,a teapot with a city in the background,3,3.377222776412964,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p2_seed3.png
+dreambooth,main,800.0,teapot,3,a teapot in the snow,0,3.409987688064575,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p3_seed0.png
+dreambooth,main,800.0,teapot,3,a teapot in the snow,1,3.4106547832489014,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p3_seed1.png
+dreambooth,main,800.0,teapot,3,a teapot in the snow,2,3.48665189743042,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p3_seed2.png
+dreambooth,main,800.0,teapot,3,a teapot in the snow,3,3.483558177947998,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p3_seed3.png
+dreambooth,main,800.0,teapot,4,a teapot on top of a mirror,0,3.5410218238830566,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p4_seed0.png
+dreambooth,main,800.0,teapot,4,a teapot on top of a mirror,1,3.534848690032959,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p4_seed1.png
+dreambooth,main,800.0,teapot,4,a teapot on top of a mirror,2,3.703749656677246,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p4_seed2.png
+dreambooth,main,800.0,teapot,4,a teapot on top of a mirror,3,3.522507667541504,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p4_seed3.png
+dreambooth,main,800.0,teapot,5,a red teapot,0,3.577366828918457,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p5_seed0.png
+dreambooth,main,800.0,teapot,5,a red teapot,1,3.4800362586975098,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p5_seed1.png
+dreambooth,main,800.0,teapot,5,a red teapot,2,3.505990982055664,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p5_seed2.png
+dreambooth,main,800.0,teapot,5,a red teapot,3,3.4341158866882324,3259.09375,False,results/pair2/images/dreambooth_800_teapot_p5_seed3.png
+dreambooth,ablation,400.0,teapot,0,a teapot on top of a wooden floor,0,3.412956953048706,3259.09375,False,results/pair2/images/dreambooth_400_teapot_p0_seed0.png
+dreambooth,ablation,400.0,teapot,0,a teapot on top of a wooden floor,1,3.469118118286133,3259.09375,False,results/pair2/images/dreambooth_400_teapot_p0_seed1.png
+dreambooth,ablation,400.0,teapot,1,a teapot on top of a white rug,0,3.444344997406006,3259.09375,False,results/pair2/images/dreambooth_400_teapot_p1_seed0.png
+dreambooth,ablation,400.0,teapot,1,a teapot on top of a white rug,1,3.37815523147583,3259.09375,False,results/pair2/images/dreambooth_400_teapot_p1_seed1.png
+dreambooth,ablation,400.0,teapot,2,a teapot with a city in the background,0,3.395066261291504,3259.09375,False,results/pair2/images/dreambooth_400_teapot_p2_seed0.png
+dreambooth,ablation,400.0,teapot,2,a teapot with a city in the background,1,3.396214485168457,3259.09375,False,results/pair2/images/dreambooth_400_teapot_p2_seed1.png
+dreambooth,ablation,400.0,teapot,3,a teapot in the snow,0,3.4207253456115723,3259.09375,False,results/pair2/images/dreambooth_400_teapot_p3_seed0.png
+dreambooth,ablation,400.0,teapot,3,a teapot in the snow,1,3.3644986152648926,3259.09375,False,results/pair2/images/dreambooth_400_teapot_p3_seed1.png
+dreambooth,ablation,400.0,teapot,4,a teapot on top of a mirror,0,3.383082628250122,3259.09375,False,results/pair2/images/dreambooth_400_teapot_p4_seed0.png
+dreambooth,ablation,400.0,teapot,4,a teapot on top of a mirror,1,3.534097909927368,3259.09375,False,results/pair2/images/dreambooth_400_teapot_p4_seed1.png
+dreambooth,ablation,400.0,teapot,5,a red teapot,0,3.491722345352173,3259.09375,False,results/pair2/images/dreambooth_400_teapot_p5_seed0.png
+dreambooth,ablation,400.0,teapot,5,a red teapot,1,3.4721877574920654,3259.09375,False,results/pair2/images/dreambooth_400_teapot_p5_seed1.png
+dreambooth,main,800.0,backpack,0,a backpack on top of a wooden floor,0,3.4090898036956787,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p0_seed0.png
+dreambooth,main,800.0,backpack,0,a backpack on top of a wooden floor,1,3.462648630142212,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p0_seed1.png
+dreambooth,main,800.0,backpack,0,a backpack on top of a wooden floor,2,3.3718960285186768,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p0_seed2.png
+dreambooth,main,800.0,backpack,0,a backpack on top of a wooden floor,3,3.5156033039093018,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p0_seed3.png
+dreambooth,main,800.0,backpack,1,a backpack on top of a white rug,0,3.527467966079712,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p1_seed0.png
+dreambooth,main,800.0,backpack,1,a backpack on top of a white rug,1,3.4821250438690186,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p1_seed1.png
+dreambooth,main,800.0,backpack,1,a backpack on top of a white rug,2,3.6925928592681885,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p1_seed2.png
+dreambooth,main,800.0,backpack,1,a backpack on top of a white rug,3,3.6523306369781494,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p1_seed3.png
+dreambooth,main,800.0,backpack,2,a backpack with a city in the background,0,3.438242197036743,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p2_seed0.png
+dreambooth,main,800.0,backpack,2,a backpack with a city in the background,1,3.3975322246551514,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p2_seed1.png
+dreambooth,main,800.0,backpack,2,a backpack with a city in the background,2,3.3659472465515137,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p2_seed2.png
+dreambooth,main,800.0,backpack,2,a backpack with a city in the background,3,3.3520772457122803,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p2_seed3.png
+dreambooth,main,800.0,backpack,3,a backpack in the snow,0,3.352708578109741,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p3_seed0.png
+dreambooth,main,800.0,backpack,3,a backpack in the snow,1,3.419245958328247,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p3_seed1.png
+dreambooth,main,800.0,backpack,3,a backpack in the snow,2,3.455282211303711,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p3_seed2.png
+dreambooth,main,800.0,backpack,3,a backpack in the snow,3,3.3683903217315674,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p3_seed3.png
+dreambooth,main,800.0,backpack,4,a backpack on top of a mirror,0,3.3906421661376953,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p4_seed0.png
+dreambooth,main,800.0,backpack,4,a backpack on top of a mirror,1,3.453502655029297,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p4_seed1.png
+dreambooth,main,800.0,backpack,4,a backpack on top of a mirror,2,3.415926218032837,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p4_seed2.png
+dreambooth,main,800.0,backpack,4,a backpack on top of a mirror,3,3.4294426441192627,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p4_seed3.png
+dreambooth,main,800.0,backpack,5,a red backpack,0,3.3918874263763428,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p5_seed0.png
+dreambooth,main,800.0,backpack,5,a red backpack,1,3.3639578819274902,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p5_seed1.png
+dreambooth,main,800.0,backpack,5,a red backpack,2,3.3650705814361572,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p5_seed2.png
+dreambooth,main,800.0,backpack,5,a red backpack,3,3.360591411590576,3259.09375,False,results/pair2/images/dreambooth_800_backpack_p5_seed3.png
+dreambooth,ablation,400.0,backpack,0,a backpack on top of a wooden floor,0,3.3453643321990967,3259.09375,False,results/pair2/images/dreambooth_400_backpack_p0_seed0.png
+dreambooth,ablation,400.0,backpack,0,a backpack on top of a wooden floor,1,3.3647565841674805,3259.09375,False,results/pair2/images/dreambooth_400_backpack_p0_seed1.png
+dreambooth,ablation,400.0,backpack,1,a backpack on top of a white rug,0,3.3557538986206055,3259.09375,False,results/pair2/images/dreambooth_400_backpack_p1_seed0.png
+dreambooth,ablation,400.0,backpack,1,a backpack on top of a white rug,1,3.365058422088623,3259.09375,False,results/pair2/images/dreambooth_400_backpack_p1_seed1.png
+dreambooth,ablation,400.0,backpack,2,a backpack with a city in the background,0,3.3623037338256836,3259.09375,False,results/pair2/images/dreambooth_400_backpack_p2_seed0.png
+dreambooth,ablation,400.0,backpack,2,a backpack with a city in the background,1,3.3630967140197754,3259.09375,False,results/pair2/images/dreambooth_400_backpack_p2_seed1.png
+dreambooth,ablation,400.0,backpack,3,a backpack in the snow,0,3.3521971702575684,3259.09375,False,results/pair2/images/dreambooth_400_backpack_p3_seed0.png
+dreambooth,ablation,400.0,backpack,3,a backpack in the snow,1,3.3642032146453857,3259.09375,False,results/pair2/images/dreambooth_400_backpack_p3_seed1.png
+dreambooth,ablation,400.0,backpack,4,a backpack on top of a mirror,0,3.3597569465637207,3259.09375,False,results/pair2/images/dreambooth_400_backpack_p4_seed0.png
+dreambooth,ablation,400.0,backpack,4,a backpack on top of a mirror,1,3.3633697032928467,3259.09375,False,results/pair2/images/dreambooth_400_backpack_p4_seed1.png
+dreambooth,ablation,400.0,backpack,5,a red backpack,0,3.33382511138916,3259.09375,False,results/pair2/images/dreambooth_400_backpack_p5_seed0.png
+dreambooth,ablation,400.0,backpack,5,a red backpack,1,3.3651561737060547,3259.09375,False,results/pair2/images/dreambooth_400_backpack_p5_seed1.png
+dreambooth,main,800.0,colorful_sneaker,0,a sneaker on top of a wooden floor,0,3.3550851345062256,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p0_seed0.png
+dreambooth,main,800.0,colorful_sneaker,0,a sneaker on top of a wooden floor,1,3.352248430252075,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p0_seed1.png
+dreambooth,main,800.0,colorful_sneaker,0,a sneaker on top of a wooden floor,2,3.3650588989257812,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p0_seed2.png
+dreambooth,main,800.0,colorful_sneaker,0,a sneaker on top of a wooden floor,3,3.3515267372131348,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p0_seed3.png
+dreambooth,main,800.0,colorful_sneaker,1,a sneaker on top of a white rug,0,3.3394744396209717,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p1_seed0.png
+dreambooth,main,800.0,colorful_sneaker,1,a sneaker on top of a white rug,1,3.352604389190674,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p1_seed1.png
+dreambooth,main,800.0,colorful_sneaker,1,a sneaker on top of a white rug,2,3.3645050525665283,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p1_seed2.png
+dreambooth,main,800.0,colorful_sneaker,1,a sneaker on top of a white rug,3,3.370182752609253,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p1_seed3.png
+dreambooth,main,800.0,colorful_sneaker,2,a sneaker with a city in the background,0,3.3697822093963623,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p2_seed0.png
+dreambooth,main,800.0,colorful_sneaker,2,a sneaker with a city in the background,1,3.3658084869384766,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p2_seed1.png
+dreambooth,main,800.0,colorful_sneaker,2,a sneaker with a city in the background,2,3.363454818725586,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p2_seed2.png
+dreambooth,main,800.0,colorful_sneaker,2,a sneaker with a city in the background,3,3.3654890060424805,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p2_seed3.png
+dreambooth,main,800.0,colorful_sneaker,3,a sneaker in the snow,0,3.4053874015808105,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p3_seed0.png
+dreambooth,main,800.0,colorful_sneaker,3,a sneaker in the snow,1,3.3768703937530518,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p3_seed1.png
+dreambooth,main,800.0,colorful_sneaker,3,a sneaker in the snow,2,3.3642897605895996,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p3_seed2.png
+dreambooth,main,800.0,colorful_sneaker,3,a sneaker in the snow,3,3.36680269241333,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p3_seed3.png
+dreambooth,main,800.0,colorful_sneaker,4,a sneaker on top of a mirror,0,3.3671863079071045,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p4_seed0.png
+dreambooth,main,800.0,colorful_sneaker,4,a sneaker on top of a mirror,1,3.367952823638916,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p4_seed1.png
+dreambooth,main,800.0,colorful_sneaker,4,a sneaker on top of a mirror,2,3.368710517883301,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p4_seed2.png
+dreambooth,main,800.0,colorful_sneaker,4,a sneaker on top of a mirror,3,3.3677494525909424,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p4_seed3.png
+dreambooth,main,800.0,colorful_sneaker,5,a red sneaker,0,3.3669354915618896,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p5_seed0.png
+dreambooth,main,800.0,colorful_sneaker,5,a red sneaker,1,3.349470853805542,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p5_seed1.png
+dreambooth,main,800.0,colorful_sneaker,5,a red sneaker,2,3.361722469329834,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p5_seed2.png
+dreambooth,main,800.0,colorful_sneaker,5,a red sneaker,3,3.3666627407073975,3259.09375,False,results/pair2/images/dreambooth_800_colorful_sneaker_p5_seed3.png
+dreambooth,ablation,400.0,colorful_sneaker,0,a sneaker on top of a wooden floor,0,3.520308494567871,3259.09375,False,results/pair2/images/dreambooth_400_colorful_sneaker_p0_seed0.png
+dreambooth,ablation,400.0,colorful_sneaker,0,a sneaker on top of a wooden floor,1,3.508920192718506,3259.09375,False,results/pair2/images/dreambooth_400_colorful_sneaker_p0_seed1.png
+dreambooth,ablation,400.0,colorful_sneaker,1,a sneaker on top of a white rug,0,3.414910078048706,3259.09375,False,results/pair2/images/dreambooth_400_colorful_sneaker_p1_seed0.png
+dreambooth,ablation,400.0,colorful_sneaker,1,a sneaker on top of a white rug,1,3.431833267211914,3259.09375,False,results/pair2/images/dreambooth_400_colorful_sneaker_p1_seed1.png
+dreambooth,ablation,400.0,colorful_sneaker,2,a sneaker with a city in the background,0,3.374817371368408,3259.09375,False,results/pair2/images/dreambooth_400_colorful_sneaker_p2_seed0.png
+dreambooth,ablation,400.0,colorful_sneaker,2,a sneaker with a city in the background,1,3.4576213359832764,3259.09375,False,results/pair2/images/dreambooth_400_colorful_sneaker_p2_seed1.png
+dreambooth,ablation,400.0,colorful_sneaker,3,a sneaker in the snow,0,3.3859164714813232,3259.09375,False,results/pair2/images/dreambooth_400_colorful_sneaker_p3_seed0.png
+dreambooth,ablation,400.0,colorful_sneaker,3,a sneaker in the snow,1,3.3731961250305176,3259.09375,False,results/pair2/images/dreambooth_400_colorful_sneaker_p3_seed1.png
+dreambooth,ablation,400.0,colorful_sneaker,4,a sneaker on top of a mirror,0,3.4431941509246826,3259.09375,False,results/pair2/images/dreambooth_400_colorful_sneaker_p4_seed0.png
+dreambooth,ablation,400.0,colorful_sneaker,4,a sneaker on top of a mirror,1,3.4700286388397217,3259.09375,False,results/pair2/images/dreambooth_400_colorful_sneaker_p4_seed1.png
+dreambooth,ablation,400.0,colorful_sneaker,5,a red sneaker,0,3.435190439224243,3259.09375,False,results/pair2/images/dreambooth_400_colorful_sneaker_p5_seed0.png
+dreambooth,ablation,400.0,colorful_sneaker,5,a red sneaker,1,3.3923778533935547,3259.09375,False,results/pair2/images/dreambooth_400_colorful_sneaker_p5_seed1.png
+dreambooth,main,800.0,bear_plushie,0,a stuffed animal on top of a wooden floor,0,3.383453607559204,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p0_seed0.png
+dreambooth,main,800.0,bear_plushie,0,a stuffed animal on top of a wooden floor,1,3.4224658012390137,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p0_seed1.png
+dreambooth,main,800.0,bear_plushie,0,a stuffed animal on top of a wooden floor,2,3.3941845893859863,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p0_seed2.png
+dreambooth,main,800.0,bear_plushie,0,a stuffed animal on top of a wooden floor,3,3.415555477142334,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p0_seed3.png
+dreambooth,main,800.0,bear_plushie,1,a stuffed animal on top of a white rug,0,3.4869391918182373,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p1_seed0.png
+dreambooth,main,800.0,bear_plushie,1,a stuffed animal on top of a white rug,1,3.446512222290039,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p1_seed1.png
+dreambooth,main,800.0,bear_plushie,1,a stuffed animal on top of a white rug,2,3.3913395404815674,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p1_seed2.png
+dreambooth,main,800.0,bear_plushie,1,a stuffed animal on top of a white rug,3,3.3711464405059814,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p1_seed3.png
+dreambooth,main,800.0,bear_plushie,2,a stuffed animal with a city in the background,0,3.359149217605591,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p2_seed0.png
+dreambooth,main,800.0,bear_plushie,2,a stuffed animal with a city in the background,1,3.452605724334717,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p2_seed1.png
+dreambooth,main,800.0,bear_plushie,2,a stuffed animal with a city in the background,2,3.4759604930877686,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p2_seed2.png
+dreambooth,main,800.0,bear_plushie,2,a stuffed animal with a city in the background,3,3.4391050338745117,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p2_seed3.png
+dreambooth,main,800.0,bear_plushie,3,a stuffed animal in the snow,0,3.441196918487549,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p3_seed0.png
+dreambooth,main,800.0,bear_plushie,3,a stuffed animal in the snow,1,3.423936367034912,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p3_seed1.png
+dreambooth,main,800.0,bear_plushie,3,a stuffed animal in the snow,2,3.4908854961395264,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p3_seed2.png
+dreambooth,main,800.0,bear_plushie,3,a stuffed animal in the snow,3,3.393615961074829,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p3_seed3.png
+dreambooth,main,800.0,bear_plushie,4,a stuffed animal on top of a mirror,0,3.5419840812683105,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p4_seed0.png
+dreambooth,main,800.0,bear_plushie,4,a stuffed animal on top of a mirror,1,3.4291110038757324,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p4_seed1.png
+dreambooth,main,800.0,bear_plushie,4,a stuffed animal on top of a mirror,2,3.444011926651001,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p4_seed2.png
+dreambooth,main,800.0,bear_plushie,4,a stuffed animal on top of a mirror,3,3.373302936553955,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p4_seed3.png
+dreambooth,main,800.0,bear_plushie,5,a red stuffed animal,0,3.566617727279663,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p5_seed0.png
+dreambooth,main,800.0,bear_plushie,5,a red stuffed animal,1,3.467015027999878,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p5_seed1.png
+dreambooth,main,800.0,bear_plushie,5,a red stuffed animal,2,3.4307479858398438,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p5_seed2.png
+dreambooth,main,800.0,bear_plushie,5,a red stuffed animal,3,3.3710451126098633,3259.09375,False,results/pair2/images/dreambooth_800_bear_plushie_p5_seed3.png
+dreambooth,ablation,400.0,bear_plushie,0,a stuffed animal on top of a wooden floor,0,3.365330457687378,3259.09375,False,results/pair2/images/dreambooth_400_bear_plushie_p0_seed0.png
+dreambooth,ablation,400.0,bear_plushie,0,a stuffed animal on top of a wooden floor,1,3.4282960891723633,3259.09375,False,results/pair2/images/dreambooth_400_bear_plushie_p0_seed1.png
+dreambooth,ablation,400.0,bear_plushie,1,a stuffed animal on top of a white rug,0,3.3663103580474854,3259.09375,False,results/pair2/images/dreambooth_400_bear_plushie_p1_seed0.png
+dreambooth,ablation,400.0,bear_plushie,1,a stuffed animal on top of a white rug,1,3.361417531967163,3259.09375,False,results/pair2/images/dreambooth_400_bear_plushie_p1_seed1.png
+dreambooth,ablation,400.0,bear_plushie,2,a stuffed animal with a city in the background,0,3.4149208068847656,3259.09375,False,results/pair2/images/dreambooth_400_bear_plushie_p2_seed0.png
+dreambooth,ablation,400.0,bear_plushie,2,a stuffed animal with a city in the background,1,3.372934103012085,3259.09375,False,results/pair2/images/dreambooth_400_bear_plushie_p2_seed1.png
+dreambooth,ablation,400.0,bear_plushie,3,a stuffed animal in the snow,0,3.3833820819854736,3259.09375,False,results/pair2/images/dreambooth_400_bear_plushie_p3_seed0.png
+dreambooth,ablation,400.0,bear_plushie,3,a stuffed animal in the snow,1,3.4003963470458984,3259.09375,False,results/pair2/images/dreambooth_400_bear_plushie_p3_seed1.png
+dreambooth,ablation,400.0,bear_plushie,4,a stuffed animal on top of a mirror,0,3.4202942848205566,3259.09375,False,results/pair2/images/dreambooth_400_bear_plushie_p4_seed0.png
+dreambooth,ablation,400.0,bear_plushie,4,a stuffed animal on top of a mirror,1,3.3576290607452393,3259.09375,False,results/pair2/images/dreambooth_400_bear_plushie_p4_seed1.png
+dreambooth,ablation,400.0,bear_plushie,5,a red stuffed animal,0,3.3659627437591553,3259.09375,False,results/pair2/images/dreambooth_400_bear_plushie_p5_seed0.png
+dreambooth,ablation,400.0,bear_plushie,5,a red stuffed animal,1,3.358625650405884,3259.09375,False,results/pair2/images/dreambooth_400_bear_plushie_p5_seed1.png
+ipadapter,main,0.6,teapot,0,a teapot on top of a wooden floor,0,3.5061705112457275,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p0_seed0.png
+ipadapter,main,0.6,teapot,0,a teapot on top of a wooden floor,1,3.2850608825683594,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p0_seed1.png
+ipadapter,main,0.6,teapot,0,a teapot on top of a wooden floor,2,3.285862684249878,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p0_seed2.png
+ipadapter,main,0.6,teapot,0,a teapot on top of a wooden floor,3,3.381183385848999,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p0_seed3.png
+ipadapter,main,0.6,teapot,1,a teapot on top of a white rug,0,3.3882665634155273,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p1_seed0.png
+ipadapter,main,0.6,teapot,1,a teapot on top of a white rug,1,3.2721292972564697,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p1_seed1.png
+ipadapter,main,0.6,teapot,1,a teapot on top of a white rug,2,3.4419047832489014,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p1_seed2.png
+ipadapter,main,0.6,teapot,1,a teapot on top of a white rug,3,3.454341173171997,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p1_seed3.png
+ipadapter,main,0.6,teapot,2,a teapot with a city in the background,0,3.334488868713379,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p2_seed0.png
+ipadapter,main,0.6,teapot,2,a teapot with a city in the background,1,3.345522165298462,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p2_seed1.png
+ipadapter,main,0.6,teapot,2,a teapot with a city in the background,2,3.405308961868286,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p2_seed2.png
+ipadapter,main,0.6,teapot,2,a teapot with a city in the background,3,3.395838737487793,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p2_seed3.png
+ipadapter,main,0.6,teapot,3,a teapot in the snow,0,3.3482754230499268,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p3_seed0.png
+ipadapter,main,0.6,teapot,3,a teapot in the snow,1,3.347898483276367,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p3_seed1.png
+ipadapter,main,0.6,teapot,3,a teapot in the snow,2,3.326016664505005,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p3_seed2.png
+ipadapter,main,0.6,teapot,3,a teapot in the snow,3,3.296649694442749,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p3_seed3.png
+ipadapter,main,0.6,teapot,4,a teapot on top of a mirror,0,3.2869350910186768,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p4_seed0.png
+ipadapter,main,0.6,teapot,4,a teapot on top of a mirror,1,3.2937822341918945,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p4_seed1.png
+ipadapter,main,0.6,teapot,4,a teapot on top of a mirror,2,3.281604766845703,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p4_seed2.png
+ipadapter,main,0.6,teapot,4,a teapot on top of a mirror,3,3.291691303253174,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p4_seed3.png
+ipadapter,main,0.6,teapot,5,a red teapot,0,3.368483543395996,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p5_seed0.png
+ipadapter,main,0.6,teapot,5,a red teapot,1,3.408482789993286,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p5_seed1.png
+ipadapter,main,0.6,teapot,5,a red teapot,2,3.3944122791290283,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p5_seed2.png
+ipadapter,main,0.6,teapot,5,a red teapot,3,3.2888967990875244,4506.38427734375,False,results/pair2/images/ipadapter_0.6_teapot_p5_seed3.png
+ipadapter,ablation,0.4,teapot,0,a teapot on top of a wooden floor,0,3.3159053325653076,4506.38427734375,False,results/pair2/images/ipadapter_0.4_teapot_p0_seed0.png
+ipadapter,ablation,0.4,teapot,0,a teapot on top of a wooden floor,1,3.3098790645599365,4506.38427734375,False,results/pair2/images/ipadapter_0.4_teapot_p0_seed1.png
+ipadapter,ablation,0.4,teapot,1,a teapot on top of a white rug,0,3.3362865447998047,4506.38427734375,False,results/pair2/images/ipadapter_0.4_teapot_p1_seed0.png
+ipadapter,ablation,0.4,teapot,1,a teapot on top of a white rug,1,3.320997476577759,4506.38427734375,False,results/pair2/images/ipadapter_0.4_teapot_p1_seed1.png
+ipadapter,ablation,0.4,teapot,2,a teapot with a city in the background,0,3.34126615524292,4506.38427734375,False,results/pair2/images/ipadapter_0.4_teapot_p2_seed0.png
+ipadapter,ablation,0.4,teapot,2,a teapot with a city in the background,1,3.4042556285858154,4506.38427734375,False,results/pair2/images/ipadapter_0.4_teapot_p2_seed1.png
+ipadapter,ablation,0.4,teapot,3,a teapot in the snow,0,3.307262897491455,4506.38427734375,False,results/pair2/images/ipadapter_0.4_teapot_p3_seed0.png
+ipadapter,ablation,0.4,teapot,3,a teapot in the snow,1,3.3215954303741455,4506.38427734375,False,results/pair2/images/ipadapter_0.4_teapot_p3_seed1.png
+ipadapter,ablation,0.4,teapot,4,a teapot on top of a mirror,0,3.3099989891052246,4506.38427734375,False,results/pair2/images/ipadapter_0.4_teapot_p4_seed0.png
+ipadapter,ablation,0.4,teapot,4,a teapot on top of a mirror,1,3.412879705429077,4506.38427734375,False,results/pair2/images/ipadapter_0.4_teapot_p4_seed1.png
+ipadapter,ablation,0.4,teapot,5,a red teapot,0,3.317089319229126,4506.38427734375,False,results/pair2/images/ipadapter_0.4_teapot_p5_seed0.png
+ipadapter,ablation,0.4,teapot,5,a red teapot,1,3.31331729888916,4506.38427734375,False,results/pair2/images/ipadapter_0.4_teapot_p5_seed1.png
+ipadapter,ablation,0.8,teapot,0,a teapot on top of a wooden floor,0,3.30899715423584,4506.38427734375,False,results/pair2/images/ipadapter_0.8_teapot_p0_seed0.png
+ipadapter,ablation,0.8,teapot,0,a teapot on top of a wooden floor,1,3.3151063919067383,4506.38427734375,False,results/pair2/images/ipadapter_0.8_teapot_p0_seed1.png
+ipadapter,ablation,0.8,teapot,1,a teapot on top of a white rug,0,3.2956931591033936,4506.38427734375,False,results/pair2/images/ipadapter_0.8_teapot_p1_seed0.png
+ipadapter,ablation,0.8,teapot,1,a teapot on top of a white rug,1,3.4055235385894775,4506.38427734375,False,results/pair2/images/ipadapter_0.8_teapot_p1_seed1.png
+ipadapter,ablation,0.8,teapot,2,a teapot with a city in the background,0,3.3758912086486816,4506.38427734375,False,results/pair2/images/ipadapter_0.8_teapot_p2_seed0.png
+ipadapter,ablation,0.8,teapot,2,a teapot with a city in the background,1,3.3244271278381348,4506.38427734375,False,results/pair2/images/ipadapter_0.8_teapot_p2_seed1.png
+ipadapter,ablation,0.8,teapot,3,a teapot in the snow,0,3.2931957244873047,4506.38427734375,False,results/pair2/images/ipadapter_0.8_teapot_p3_seed0.png
+ipadapter,ablation,0.8,teapot,3,a teapot in the snow,1,3.4188594818115234,4506.38427734375,False,results/pair2/images/ipadapter_0.8_teapot_p3_seed1.png
+ipadapter,ablation,0.8,teapot,4,a teapot on top of a mirror,0,3.3856606483459473,4506.38427734375,False,results/pair2/images/ipadapter_0.8_teapot_p4_seed0.png
+ipadapter,ablation,0.8,teapot,4,a teapot on top of a mirror,1,3.284619092941284,4506.38427734375,False,results/pair2/images/ipadapter_0.8_teapot_p4_seed1.png
+ipadapter,ablation,0.8,teapot,5,a red teapot,0,3.3188369274139404,4506.38427734375,False,results/pair2/images/ipadapter_0.8_teapot_p5_seed0.png
+ipadapter,ablation,0.8,teapot,5,a red teapot,1,3.3223910331726074,4506.38427734375,False,results/pair2/images/ipadapter_0.8_teapot_p5_seed1.png
+ipadapter,main,0.6,backpack,0,a backpack on top of a wooden floor,0,3.278923511505127,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p0_seed0.png
+ipadapter,main,0.6,backpack,0,a backpack on top of a wooden floor,1,3.323702812194824,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p0_seed1.png
+ipadapter,main,0.6,backpack,0,a backpack on top of a wooden floor,2,3.3109772205352783,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p0_seed2.png
+ipadapter,main,0.6,backpack,0,a backpack on top of a wooden floor,3,3.3076348304748535,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p0_seed3.png
+ipadapter,main,0.6,backpack,1,a backpack on top of a white rug,0,3.2834229469299316,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p1_seed0.png
+ipadapter,main,0.6,backpack,1,a backpack on top of a white rug,1,3.293621778488159,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p1_seed1.png
+ipadapter,main,0.6,backpack,1,a backpack on top of a white rug,2,3.311368227005005,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p1_seed2.png
+ipadapter,main,0.6,backpack,1,a backpack on top of a white rug,3,3.288846969604492,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p1_seed3.png
+ipadapter,main,0.6,backpack,2,a backpack with a city in the background,0,3.294210910797119,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p2_seed0.png
+ipadapter,main,0.6,backpack,2,a backpack with a city in the background,1,3.2820816040039062,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p2_seed1.png
+ipadapter,main,0.6,backpack,2,a backpack with a city in the background,2,3.3658571243286133,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p2_seed2.png
+ipadapter,main,0.6,backpack,2,a backpack with a city in the background,3,3.343296527862549,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p2_seed3.png
+ipadapter,main,0.6,backpack,3,a backpack in the snow,0,3.3173320293426514,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p3_seed0.png
+ipadapter,main,0.6,backpack,3,a backpack in the snow,1,3.2896006107330322,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p3_seed1.png
+ipadapter,main,0.6,backpack,3,a backpack in the snow,2,3.3137423992156982,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p3_seed2.png
+ipadapter,main,0.6,backpack,3,a backpack in the snow,3,3.3060812950134277,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p3_seed3.png
+ipadapter,main,0.6,backpack,4,a backpack on top of a mirror,0,3.289638042449951,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p4_seed0.png
+ipadapter,main,0.6,backpack,4,a backpack on top of a mirror,1,3.3100461959838867,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p4_seed1.png
+ipadapter,main,0.6,backpack,4,a backpack on top of a mirror,2,3.277492046356201,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p4_seed2.png
+ipadapter,main,0.6,backpack,4,a backpack on top of a mirror,3,3.296417236328125,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p4_seed3.png
+ipadapter,main,0.6,backpack,5,a red backpack,0,3.2923223972320557,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p5_seed0.png
+ipadapter,main,0.6,backpack,5,a red backpack,1,3.2807836532592773,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p5_seed1.png
+ipadapter,main,0.6,backpack,5,a red backpack,2,3.283047914505005,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p5_seed2.png
+ipadapter,main,0.6,backpack,5,a red backpack,3,3.306851387023926,4506.38427734375,False,results/pair2/images/ipadapter_0.6_backpack_p5_seed3.png
+ipadapter,ablation,0.4,backpack,0,a backpack on top of a wooden floor,0,3.4229393005371094,4506.38427734375,False,results/pair2/images/ipadapter_0.4_backpack_p0_seed0.png
+ipadapter,ablation,0.4,backpack,0,a backpack on top of a wooden floor,1,3.3405933380126953,4506.38427734375,False,results/pair2/images/ipadapter_0.4_backpack_p0_seed1.png
+ipadapter,ablation,0.4,backpack,1,a backpack on top of a white rug,0,3.2841663360595703,4506.38427734375,False,results/pair2/images/ipadapter_0.4_backpack_p1_seed0.png
+ipadapter,ablation,0.4,backpack,1,a backpack on top of a white rug,1,3.4078662395477295,4506.38427734375,False,results/pair2/images/ipadapter_0.4_backpack_p1_seed1.png
+ipadapter,ablation,0.4,backpack,2,a backpack with a city in the background,0,3.403071880340576,4506.38427734375,False,results/pair2/images/ipadapter_0.4_backpack_p2_seed0.png
+ipadapter,ablation,0.4,backpack,2,a backpack with a city in the background,1,3.4936392307281494,4506.38427734375,False,results/pair2/images/ipadapter_0.4_backpack_p2_seed1.png
+ipadapter,ablation,0.4,backpack,3,a backpack in the snow,0,3.3761839866638184,4506.38427734375,False,results/pair2/images/ipadapter_0.4_backpack_p3_seed0.png
+ipadapter,ablation,0.4,backpack,3,a backpack in the snow,1,3.365449905395508,4506.38427734375,False,results/pair2/images/ipadapter_0.4_backpack_p3_seed1.png
+ipadapter,ablation,0.4,backpack,4,a backpack on top of a mirror,0,3.3086400032043457,4506.38427734375,False,results/pair2/images/ipadapter_0.4_backpack_p4_seed0.png
+ipadapter,ablation,0.4,backpack,4,a backpack on top of a mirror,1,3.2998452186584473,4506.38427734375,False,results/pair2/images/ipadapter_0.4_backpack_p4_seed1.png
+ipadapter,ablation,0.4,backpack,5,a red backpack,0,3.439227819442749,4506.38427734375,False,results/pair2/images/ipadapter_0.4_backpack_p5_seed0.png
+ipadapter,ablation,0.4,backpack,5,a red backpack,1,3.389907121658325,4506.38427734375,False,results/pair2/images/ipadapter_0.4_backpack_p5_seed1.png
+ipadapter,ablation,0.8,backpack,0,a backpack on top of a wooden floor,0,3.3158938884735107,4506.38427734375,False,results/pair2/images/ipadapter_0.8_backpack_p0_seed0.png
+ipadapter,ablation,0.8,backpack,0,a backpack on top of a wooden floor,1,3.3102447986602783,4506.38427734375,False,results/pair2/images/ipadapter_0.8_backpack_p0_seed1.png
+ipadapter,ablation,0.8,backpack,1,a backpack on top of a white rug,0,3.2872653007507324,4506.38427734375,False,results/pair2/images/ipadapter_0.8_backpack_p1_seed0.png
+ipadapter,ablation,0.8,backpack,1,a backpack on top of a white rug,1,3.2908432483673096,4506.38427734375,False,results/pair2/images/ipadapter_0.8_backpack_p1_seed1.png
+ipadapter,ablation,0.8,backpack,2,a backpack with a city in the background,0,3.3132898807525635,4506.38427734375,False,results/pair2/images/ipadapter_0.8_backpack_p2_seed0.png
+ipadapter,ablation,0.8,backpack,2,a backpack with a city in the background,1,3.285475730895996,4506.38427734375,False,results/pair2/images/ipadapter_0.8_backpack_p2_seed1.png
+ipadapter,ablation,0.8,backpack,3,a backpack in the snow,0,3.3139724731445312,4506.38427734375,False,results/pair2/images/ipadapter_0.8_backpack_p3_seed0.png
+ipadapter,ablation,0.8,backpack,3,a backpack in the snow,1,3.339601755142212,4506.38427734375,False,results/pair2/images/ipadapter_0.8_backpack_p3_seed1.png
+ipadapter,ablation,0.8,backpack,4,a backpack on top of a mirror,0,3.288825273513794,4506.38427734375,False,results/pair2/images/ipadapter_0.8_backpack_p4_seed0.png
+ipadapter,ablation,0.8,backpack,4,a backpack on top of a mirror,1,3.3076298236846924,4506.38427734375,False,results/pair2/images/ipadapter_0.8_backpack_p4_seed1.png
+ipadapter,ablation,0.8,backpack,5,a red backpack,0,3.2834153175354004,4506.38427734375,False,results/pair2/images/ipadapter_0.8_backpack_p5_seed0.png
+ipadapter,ablation,0.8,backpack,5,a red backpack,1,3.2842154502868652,4506.38427734375,False,results/pair2/images/ipadapter_0.8_backpack_p5_seed1.png
+ipadapter,main,0.6,colorful_sneaker,0,a sneaker on top of a wooden floor,0,3.2855708599090576,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p0_seed0.png
+ipadapter,main,0.6,colorful_sneaker,0,a sneaker on top of a wooden floor,1,3.286355495452881,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p0_seed1.png
+ipadapter,main,0.6,colorful_sneaker,0,a sneaker on top of a wooden floor,2,3.2852861881256104,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p0_seed2.png
+ipadapter,main,0.6,colorful_sneaker,0,a sneaker on top of a wooden floor,3,3.3089029788970947,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p0_seed3.png
+ipadapter,main,0.6,colorful_sneaker,1,a sneaker on top of a white rug,0,3.2833847999572754,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p1_seed0.png
+ipadapter,main,0.6,colorful_sneaker,1,a sneaker on top of a white rug,1,3.3017125129699707,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p1_seed1.png
+ipadapter,main,0.6,colorful_sneaker,1,a sneaker on top of a white rug,2,3.283682107925415,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p1_seed2.png
+ipadapter,main,0.6,colorful_sneaker,1,a sneaker on top of a white rug,3,3.2948086261749268,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p1_seed3.png
+ipadapter,main,0.6,colorful_sneaker,2,a sneaker with a city in the background,0,3.2858474254608154,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p2_seed0.png
+ipadapter,main,0.6,colorful_sneaker,2,a sneaker with a city in the background,1,3.282562494277954,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p2_seed1.png
+ipadapter,main,0.6,colorful_sneaker,2,a sneaker with a city in the background,2,3.2822823524475098,4506.38427734375,True,results/pair2/images/ipadapter_0.6_colorful_sneaker_p2_seed2.png
+ipadapter,main,0.6,colorful_sneaker,2,a sneaker with a city in the background,3,3.316863536834717,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p2_seed3.png
+ipadapter,main,0.6,colorful_sneaker,3,a sneaker in the snow,0,3.2919843196868896,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p3_seed0.png
+ipadapter,main,0.6,colorful_sneaker,3,a sneaker in the snow,1,3.2891650199890137,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p3_seed1.png
+ipadapter,main,0.6,colorful_sneaker,3,a sneaker in the snow,2,3.2861666679382324,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p3_seed2.png
+ipadapter,main,0.6,colorful_sneaker,3,a sneaker in the snow,3,3.287726640701294,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p3_seed3.png
+ipadapter,main,0.6,colorful_sneaker,4,a sneaker on top of a mirror,0,3.3065555095672607,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p4_seed0.png
+ipadapter,main,0.6,colorful_sneaker,4,a sneaker on top of a mirror,1,3.2881531715393066,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p4_seed1.png
+ipadapter,main,0.6,colorful_sneaker,4,a sneaker on top of a mirror,2,3.3946499824523926,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p4_seed2.png
+ipadapter,main,0.6,colorful_sneaker,4,a sneaker on top of a mirror,3,3.4669580459594727,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p4_seed3.png
+ipadapter,main,0.6,colorful_sneaker,5,a red sneaker,0,3.3494789600372314,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p5_seed0.png
+ipadapter,main,0.6,colorful_sneaker,5,a red sneaker,1,3.330601453781128,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p5_seed1.png
+ipadapter,main,0.6,colorful_sneaker,5,a red sneaker,2,3.2832047939300537,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p5_seed2.png
+ipadapter,main,0.6,colorful_sneaker,5,a red sneaker,3,3.303835868835449,4506.38427734375,False,results/pair2/images/ipadapter_0.6_colorful_sneaker_p5_seed3.png
+ipadapter,ablation,0.4,colorful_sneaker,0,a sneaker on top of a wooden floor,0,3.3126492500305176,4506.38427734375,False,results/pair2/images/ipadapter_0.4_colorful_sneaker_p0_seed0.png
+ipadapter,ablation,0.4,colorful_sneaker,0,a sneaker on top of a wooden floor,1,3.304112195968628,4506.38427734375,False,results/pair2/images/ipadapter_0.4_colorful_sneaker_p0_seed1.png
+ipadapter,ablation,0.4,colorful_sneaker,1,a sneaker on top of a white rug,0,3.285585641860962,4506.38427734375,False,results/pair2/images/ipadapter_0.4_colorful_sneaker_p1_seed0.png
+ipadapter,ablation,0.4,colorful_sneaker,1,a sneaker on top of a white rug,1,3.2827882766723633,4506.38427734375,False,results/pair2/images/ipadapter_0.4_colorful_sneaker_p1_seed1.png
+ipadapter,ablation,0.4,colorful_sneaker,2,a sneaker with a city in the background,0,3.282305955886841,4506.38427734375,False,results/pair2/images/ipadapter_0.4_colorful_sneaker_p2_seed0.png
+ipadapter,ablation,0.4,colorful_sneaker,2,a sneaker with a city in the background,1,3.282606601715088,4506.38427734375,False,results/pair2/images/ipadapter_0.4_colorful_sneaker_p2_seed1.png
+ipadapter,ablation,0.4,colorful_sneaker,3,a sneaker in the snow,0,3.314906597137451,4506.38427734375,False,results/pair2/images/ipadapter_0.4_colorful_sneaker_p3_seed0.png
+ipadapter,ablation,0.4,colorful_sneaker,3,a sneaker in the snow,1,3.3069212436676025,4506.38427734375,False,results/pair2/images/ipadapter_0.4_colorful_sneaker_p3_seed1.png
+ipadapter,ablation,0.4,colorful_sneaker,4,a sneaker on top of a mirror,0,3.2869935035705566,4506.38427734375,False,results/pair2/images/ipadapter_0.4_colorful_sneaker_p4_seed0.png
+ipadapter,ablation,0.4,colorful_sneaker,4,a sneaker on top of a mirror,1,3.2948389053344727,4506.38427734375,False,results/pair2/images/ipadapter_0.4_colorful_sneaker_p4_seed1.png
+ipadapter,ablation,0.4,colorful_sneaker,5,a red sneaker,0,3.269987106323242,4506.38427734375,False,results/pair2/images/ipadapter_0.4_colorful_sneaker_p5_seed0.png
+ipadapter,ablation,0.4,colorful_sneaker,5,a red sneaker,1,3.288968086242676,4506.38427734375,False,results/pair2/images/ipadapter_0.4_colorful_sneaker_p5_seed1.png
+ipadapter,ablation,0.8,colorful_sneaker,0,a sneaker on top of a wooden floor,0,3.284097194671631,4506.38427734375,False,results/pair2/images/ipadapter_0.8_colorful_sneaker_p0_seed0.png
+ipadapter,ablation,0.8,colorful_sneaker,0,a sneaker on top of a wooden floor,1,3.318958282470703,4506.38427734375,False,results/pair2/images/ipadapter_0.8_colorful_sneaker_p0_seed1.png
+ipadapter,ablation,0.8,colorful_sneaker,1,a sneaker on top of a white rug,0,3.2816038131713867,4506.38427734375,False,results/pair2/images/ipadapter_0.8_colorful_sneaker_p1_seed0.png
+ipadapter,ablation,0.8,colorful_sneaker,1,a sneaker on top of a white rug,1,3.284357786178589,4506.38427734375,False,results/pair2/images/ipadapter_0.8_colorful_sneaker_p1_seed1.png
+ipadapter,ablation,0.8,colorful_sneaker,2,a sneaker with a city in the background,0,3.309532403945923,4506.38427734375,False,results/pair2/images/ipadapter_0.8_colorful_sneaker_p2_seed0.png
+ipadapter,ablation,0.8,colorful_sneaker,2,a sneaker with a city in the background,1,3.283029317855835,4506.38427734375,False,results/pair2/images/ipadapter_0.8_colorful_sneaker_p2_seed1.png
+ipadapter,ablation,0.8,colorful_sneaker,3,a sneaker in the snow,0,3.2842981815338135,4506.38427734375,False,results/pair2/images/ipadapter_0.8_colorful_sneaker_p3_seed0.png
+ipadapter,ablation,0.8,colorful_sneaker,3,a sneaker in the snow,1,3.284529209136963,4506.38427734375,False,results/pair2/images/ipadapter_0.8_colorful_sneaker_p3_seed1.png
+ipadapter,ablation,0.8,colorful_sneaker,4,a sneaker on top of a mirror,0,3.2833895683288574,4506.38427734375,False,results/pair2/images/ipadapter_0.8_colorful_sneaker_p4_seed0.png
+ipadapter,ablation,0.8,colorful_sneaker,4,a sneaker on top of a mirror,1,3.3122429847717285,4506.38427734375,False,results/pair2/images/ipadapter_0.8_colorful_sneaker_p4_seed1.png
+ipadapter,ablation,0.8,colorful_sneaker,5,a red sneaker,0,3.282102108001709,4506.38427734375,False,results/pair2/images/ipadapter_0.8_colorful_sneaker_p5_seed0.png
+ipadapter,ablation,0.8,colorful_sneaker,5,a red sneaker,1,3.3031997680664062,4506.38427734375,False,results/pair2/images/ipadapter_0.8_colorful_sneaker_p5_seed1.png
+ipadapter,main,0.6,bear_plushie,0,a stuffed animal on top of a wooden floor,0,3.2984015941619873,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p0_seed0.png
+ipadapter,main,0.6,bear_plushie,0,a stuffed animal on top of a wooden floor,1,3.3121488094329834,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p0_seed1.png
+ipadapter,main,0.6,bear_plushie,0,a stuffed animal on top of a wooden floor,2,3.306727409362793,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p0_seed2.png
+ipadapter,main,0.6,bear_plushie,0,a stuffed animal on top of a wooden floor,3,3.29194974899292,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p0_seed3.png
+ipadapter,main,0.6,bear_plushie,1,a stuffed animal on top of a white rug,0,3.304887533187866,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p1_seed0.png
+ipadapter,main,0.6,bear_plushie,1,a stuffed animal on top of a white rug,1,3.3162624835968018,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p1_seed1.png
+ipadapter,main,0.6,bear_plushie,1,a stuffed animal on top of a white rug,2,3.313342332839966,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p1_seed2.png
+ipadapter,main,0.6,bear_plushie,1,a stuffed animal on top of a white rug,3,3.3072195053100586,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p1_seed3.png
+ipadapter,main,0.6,bear_plushie,2,a stuffed animal with a city in the background,0,3.270409107208252,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p2_seed0.png
+ipadapter,main,0.6,bear_plushie,2,a stuffed animal with a city in the background,1,3.302158832550049,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p2_seed1.png
+ipadapter,main,0.6,bear_plushie,2,a stuffed animal with a city in the background,2,3.296903371810913,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p2_seed2.png
+ipadapter,main,0.6,bear_plushie,2,a stuffed animal with a city in the background,3,3.276832103729248,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p2_seed3.png
+ipadapter,main,0.6,bear_plushie,3,a stuffed animal in the snow,0,3.2755720615386963,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p3_seed0.png
+ipadapter,main,0.6,bear_plushie,3,a stuffed animal in the snow,1,3.308558702468872,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p3_seed1.png
+ipadapter,main,0.6,bear_plushie,3,a stuffed animal in the snow,2,3.3134307861328125,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p3_seed2.png
+ipadapter,main,0.6,bear_plushie,3,a stuffed animal in the snow,3,3.301422119140625,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p3_seed3.png
+ipadapter,main,0.6,bear_plushie,4,a stuffed animal on top of a mirror,0,3.3013103008270264,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p4_seed0.png
+ipadapter,main,0.6,bear_plushie,4,a stuffed animal on top of a mirror,1,3.3062047958374023,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p4_seed1.png
+ipadapter,main,0.6,bear_plushie,4,a stuffed animal on top of a mirror,2,3.2930331230163574,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p4_seed2.png
+ipadapter,main,0.6,bear_plushie,4,a stuffed animal on top of a mirror,3,3.2980005741119385,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p4_seed3.png
+ipadapter,main,0.6,bear_plushie,5,a red stuffed animal,0,3.2827610969543457,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p5_seed0.png
+ipadapter,main,0.6,bear_plushie,5,a red stuffed animal,1,3.2988431453704834,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p5_seed1.png
+ipadapter,main,0.6,bear_plushie,5,a red stuffed animal,2,3.306626081466675,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p5_seed2.png
+ipadapter,main,0.6,bear_plushie,5,a red stuffed animal,3,3.302927255630493,4506.38427734375,False,results/pair2/images/ipadapter_0.6_bear_plushie_p5_seed3.png
+ipadapter,ablation,0.4,bear_plushie,0,a stuffed animal on top of a wooden floor,0,3.283818483352661,4506.38427734375,False,results/pair2/images/ipadapter_0.4_bear_plushie_p0_seed0.png
+ipadapter,ablation,0.4,bear_plushie,0,a stuffed animal on top of a wooden floor,1,3.2968177795410156,4506.38427734375,False,results/pair2/images/ipadapter_0.4_bear_plushie_p0_seed1.png
+ipadapter,ablation,0.4,bear_plushie,1,a stuffed animal on top of a white rug,0,3.30531644821167,4506.38427734375,False,results/pair2/images/ipadapter_0.4_bear_plushie_p1_seed0.png
+ipadapter,ablation,0.4,bear_plushie,1,a stuffed animal on top of a white rug,1,3.3056282997131348,4506.38427734375,False,results/pair2/images/ipadapter_0.4_bear_plushie_p1_seed1.png
+ipadapter,ablation,0.4,bear_plushie,2,a stuffed animal with a city in the background,0,3.3127779960632324,4506.38427734375,False,results/pair2/images/ipadapter_0.4_bear_plushie_p2_seed0.png
+ipadapter,ablation,0.4,bear_plushie,2,a stuffed animal with a city in the background,1,3.282440662384033,4506.38427734375,False,results/pair2/images/ipadapter_0.4_bear_plushie_p2_seed1.png
+ipadapter,ablation,0.4,bear_plushie,3,a stuffed animal in the snow,0,3.287409543991089,4506.38427734375,False,results/pair2/images/ipadapter_0.4_bear_plushie_p3_seed0.png
+ipadapter,ablation,0.4,bear_plushie,3,a stuffed animal in the snow,1,3.3168399333953857,4506.38427734375,False,results/pair2/images/ipadapter_0.4_bear_plushie_p3_seed1.png
+ipadapter,ablation,0.4,bear_plushie,4,a stuffed animal on top of a mirror,0,3.3060667514801025,4506.38427734375,False,results/pair2/images/ipadapter_0.4_bear_plushie_p4_seed0.png
+ipadapter,ablation,0.4,bear_plushie,4,a stuffed animal on top of a mirror,1,3.298279047012329,4506.38427734375,False,results/pair2/images/ipadapter_0.4_bear_plushie_p4_seed1.png
+ipadapter,ablation,0.4,bear_plushie,5,a red stuffed animal,0,3.293292999267578,4506.38427734375,False,results/pair2/images/ipadapter_0.4_bear_plushie_p5_seed0.png
+ipadapter,ablation,0.4,bear_plushie,5,a red stuffed animal,1,3.298725128173828,4506.38427734375,False,results/pair2/images/ipadapter_0.4_bear_plushie_p5_seed1.png
+ipadapter,ablation,0.8,bear_plushie,0,a stuffed animal on top of a wooden floor,0,3.3019587993621826,4506.38427734375,False,results/pair2/images/ipadapter_0.8_bear_plushie_p0_seed0.png
+ipadapter,ablation,0.8,bear_plushie,0,a stuffed animal on top of a wooden floor,1,3.27312970161438,4506.38427734375,False,results/pair2/images/ipadapter_0.8_bear_plushie_p0_seed1.png
+ipadapter,ablation,0.8,bear_plushie,1,a stuffed animal on top of a white rug,0,3.3003761768341064,4506.38427734375,False,results/pair2/images/ipadapter_0.8_bear_plushie_p1_seed0.png
+ipadapter,ablation,0.8,bear_plushie,1,a stuffed animal on top of a white rug,1,3.385613203048706,4506.38427734375,False,results/pair2/images/ipadapter_0.8_bear_plushie_p1_seed1.png
+ipadapter,ablation,0.8,bear_plushie,2,a stuffed animal with a city in the background,0,3.3475263118743896,4506.38427734375,False,results/pair2/images/ipadapter_0.8_bear_plushie_p2_seed0.png
+ipadapter,ablation,0.8,bear_plushie,2,a stuffed animal with a city in the background,1,3.304584264755249,4506.38427734375,False,results/pair2/images/ipadapter_0.8_bear_plushie_p2_seed1.png
+ipadapter,ablation,0.8,bear_plushie,3,a stuffed animal in the snow,0,3.3032896518707275,4506.38427734375,False,results/pair2/images/ipadapter_0.8_bear_plushie_p3_seed0.png
+ipadapter,ablation,0.8,bear_plushie,3,a stuffed animal in the snow,1,3.287550687789917,4506.38427734375,False,results/pair2/images/ipadapter_0.8_bear_plushie_p3_seed1.png
+ipadapter,ablation,0.8,bear_plushie,4,a stuffed animal on top of a mirror,0,3.3904571533203125,4506.38427734375,False,results/pair2/images/ipadapter_0.8_bear_plushie_p4_seed0.png
+ipadapter,ablation,0.8,bear_plushie,4,a stuffed animal on top of a mirror,1,3.2829113006591797,4506.38427734375,False,results/pair2/images/ipadapter_0.8_bear_plushie_p4_seed1.png
+ipadapter,ablation,0.8,bear_plushie,5,a red stuffed animal,0,3.354084014892578,4506.38427734375,False,results/pair2/images/ipadapter_0.8_bear_plushie_p5_seed0.png
+ipadapter,ablation,0.8,bear_plushie,5,a red stuffed animal,1,3.356421947479248,4506.38427734375,False,results/pair2/images/ipadapter_0.8_bear_plushie_p5_seed1.png

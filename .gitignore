@@ -1,0 +1,5 @@
+results/**/images/
+results/ratings/*_images/
+*.safetensors
+*.png
+!results/summary/*.png

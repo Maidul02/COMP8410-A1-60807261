@@ -1,0 +1,5 @@
+,identity_1to5,identity_1to5,follows_prompt_1to5,follows_prompt_1to5,realistic_1to5,realistic_1to5,usable_0or1,usable_0or1
+,mean,std,mean,std,mean,std,mean,std
+model,,,,,,,,
+dreambooth,3.92,1.67,4.92,0.41,4.67,1.13,0.88,0.34
+ipadapter,4.25,1.15,3.58,1.82,4.58,1.02,0.83,0.38

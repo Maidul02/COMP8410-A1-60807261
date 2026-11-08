@@ -1,0 +1,5 @@
+,edit_done_1to5,edit_done_1to5,product_kept_1to5,product_kept_1to5,realistic_1to5,realistic_1to5,usable_0or1,usable_0or1
+,mean,std,mean,std,mean,std,mean,std
+model,,,,,,,,
+controlnet,4.92,0.41,4.42,1.1,4.5,1.06,0.88,0.34
+ip2p,3.83,1.66,3.33,1.74,3.5,1.47,0.62,0.49

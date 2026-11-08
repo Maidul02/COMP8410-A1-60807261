@@ -1,0 +1,13 @@
+model,group,mean,std
+fagcn,high,0.4076,0.0911
+fagcn,low,0.9097,0.0105
+fagcn,mid,0.8257,0.0335
+gcn,high,0.2253,0.1207
+gcn,low,0.6465,0.0291
+gcn,mid,0.4439,0.0664
+graphsage,high,0.4939,0.0578
+graphsage,low,0.9557,0.0076
+graphsage,mid,0.8604,0.0277
+mlp,high,0.4836,0.053
+mlp,low,0.9563,0.0083
+mlp,mid,0.8526,0.0186

@@ -1,0 +1,20 @@
+{
+  "product": "teapot",
+  "train_images": 4,
+  "prior_image_time_s": 135.62232661247253,
+  "train_time_s": 356.069278717041,
+  "total_setup_time_s": 520.3403799533844,
+  "train_memory_mb": 2207.97314453125,
+  "lora_size_mb": 3.0767288208007812,
+  "trainable_params": 797184,
+  "checkpoints": {
+    "400": {
+      "seconds": 177.28629231452942,
+      "size_mb": 3.0767288208007812
+    },
+    "800": {
+      "seconds": 356.069278717041,
+      "size_mb": 3.0767288208007812
+    }
+  }
+}

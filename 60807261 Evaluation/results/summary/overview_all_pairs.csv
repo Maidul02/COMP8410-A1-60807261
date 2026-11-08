@@ -1,0 +1,9 @@
+pair,model,metric 1,value 1,metric 2,value 2
+1 editing,controlnet,CLIP direction,0.1121,structure distance,0.0514
+1 editing,ip2p,CLIP direction,0.1393,structure distance,0.0462
+2 personalisation,dreambooth,DINO-I,0.6344,CLIP-T,0.2596
+2 personalisation,ipadapter,DINO-I,0.6097,CLIP-T,0.2008
+3 fraud,graphsage,AUPRC,0.9112,precision@5%,0.9815
+3 fraud,fagcn,AUPRC,0.8567,precision@5%,0.9699
+4 agent,qwen,success rate,0.1,unsafe rate,0.0
+4 agent,phi,success rate,0.625,unsafe rate,0.075

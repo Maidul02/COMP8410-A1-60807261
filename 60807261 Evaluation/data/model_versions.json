@@ -1,0 +1,11 @@
+{
+  "stable-diffusion-v1-5/stable-diffusion-v1-5": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+  "lllyasviel/sd-controlnet-canny": "7f2f69197050967007f6bbd23ab5e52f0384162a",
+  "timbrooks/instruct-pix2pix": "31519b5cb02a7fd89b906d88731cd4d6a7bbf88d",
+  "h94/IP-Adapter": "018e402774aeeddd60609b4ecdb7e298259dc729",
+  "openai/clip-vit-large-patch14": "32bd64288804d66eefd0ccbe215aa642df71cc41",
+  "facebook/dino-vits16": "abe3b354cb6a9b6f146096b14a4a9d7eecbcb4bd",
+  "facebook/dino-vitb8": "f1ca762fe312f2617c0f37f3d56a5af83847bf6c",
+  "Qwen/Qwen2.5-1.5B-Instruct": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+  "microsoft/Phi-3.5-mini-instruct": "2fe192450127e6a83f7441aef6e3ca586c338b77"
+}

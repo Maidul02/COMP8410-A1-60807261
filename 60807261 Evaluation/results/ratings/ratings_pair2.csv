@@ -1,0 +1,49 @@
+blind_name,eval_prompt,compare_with,identity_1to5,follows_prompt_1to5,realistic_1to5,usable_0or1
+img_000.png,a backpack in the snow,REAL_backpack.png,5,5,5,1
+img_001.png,a red stuffed animal,REAL_bear_plushie.png,5,5,5,1
+img_002.png,a sneaker with a city in the background,REAL_colorful_sneaker.png,5,5,5,1
+img_003.png,a sneaker on top of a wooden floor,REAL_colorful_sneaker.png,5,5,5,1
+img_004.png,a teapot with a city in the background,REAL_teapot.png,3,5,5,1
+img_005.png,a teapot in the snow,REAL_teapot.png,5,5,5,1
+img_006.png,a backpack on top of a white rug,REAL_backpack.png,3,1,3,1
+img_007.png,a teapot with a city in the background,REAL_teapot.png,5,1,5,0
+img_008.png,a stuffed animal with a city in the background,REAL_bear_plushie.png,5,1,5,0
+img_009.png,a teapot in the snow,REAL_teapot.png,5,5,5,1
+img_010.png,a teapot on top of a mirror,REAL_teapot.png,1,1,1,0
+img_011.png,a red stuffed animal,REAL_bear_plushie.png,5,5,5,1
+img_012.png,a stuffed animal in the snow,REAL_bear_plushie.png,5,5,5,1
+img_013.png,a backpack on top of a mirror,REAL_backpack.png,5,1,5,1
+img_014.png,a stuffed animal on top of a white rug,REAL_bear_plushie.png,5,5,5,1
+img_015.png,a sneaker on top of a mirror,REAL_colorful_sneaker.png,5,5,5,1
+img_016.png,a red backpack,REAL_backpack.png,5,5,5,1
+img_017.png,a teapot on top of a wooden floor,REAL_teapot.png,5,5,5,1
+img_018.png,a stuffed animal on top of a mirror,REAL_bear_plushie.png,5,5,5,1
+img_019.png,a sneaker on top of a white rug,REAL_colorful_sneaker.png,5,5,5,1
+img_020.png,a sneaker in the snow,REAL_colorful_sneaker.png,5,5,5,1
+img_021.png,a red sneaker,REAL_colorful_sneaker.png,3,5,5,1
+img_022.png,a stuffed animal on top of a mirror,REAL_bear_plushie.png,5,1,5,1
+img_023.png,a teapot on top of a mirror,REAL_teapot.png,5,5,5,1
+img_024.png,a red teapot,REAL_teapot.png,5,5,5,1
+img_025.png,a sneaker with a city in the background,REAL_colorful_sneaker.png,5,5,5,1
+img_026.png,a backpack on top of a mirror,REAL_backpack.png,5,3,5,0
+img_027.png,a stuffed animal on top of a wooden floor,REAL_bear_plushie.png,3,3,5,0
+img_028.png,a backpack with a city in the background,REAL_backpack.png,3,3,3,1
+img_029.png,a stuffed animal on top of a wooden floor,REAL_bear_plushie.png,3,5,5,1
+img_030.png,a red sneaker,REAL_colorful_sneaker.png,3,5,5,1
+img_031.png,a backpack on top of a wooden floor,REAL_backpack.png,5,1,5,1
+img_032.png,a stuffed animal with a city in the background,REAL_bear_plushie.png,5,5,5,1
+img_033.png,a teapot on top of a white rug,REAL_teapot.png,3,3,5,1
+img_034.png,a backpack on top of a wooden floor,REAL_backpack.png,1,5,5,1
+img_035.png,a backpack on top of a white rug,REAL_backpack.png,1,5,5,1
+img_036.png,a stuffed animal in the snow,REAL_bear_plushie.png,5,5,3,1
+img_037.png,a teapot on top of a white rug,REAL_teapot.png,1,5,1,0
+img_038.png,a sneaker on top of a mirror,REAL_colorful_sneaker.png,5,5,5,1
+img_039.png,a teapot on top of a wooden floor,REAL_teapot.png,5,5,5,1
+img_040.png,a sneaker in the snow,REAL_colorful_sneaker.png,5,5,5,1
+img_041.png,a red teapot,REAL_teapot.png,1,5,1,0
+img_042.png,a red backpack,REAL_backpack.png,5,5,5,1
+img_043.png,a backpack in the snow,REAL_backpack.png,1,5,5,1
+img_044.png,a backpack with a city in the background,REAL_backpack.png,5,5,5,1
+img_045.png,a sneaker on top of a wooden floor,REAL_colorful_sneaker.png,5,5,5,1
+img_046.png,a stuffed animal on top of a white rug,REAL_bear_plushie.png,3,5,5,1
+img_047.png,a sneaker on top of a white rug,REAL_colorful_sneaker.png,3,5,5,1

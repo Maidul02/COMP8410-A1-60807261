@@ -1,0 +1,20 @@
+{
+  "product": "backpack",
+  "train_images": 5,
+  "prior_image_time_s": 200.14676141738892,
+  "train_time_s": 355.9356906414032,
+  "total_setup_time_s": 597.9113066196442,
+  "train_memory_mb": 2211.72509765625,
+  "lora_size_mb": 3.0767288208007812,
+  "trainable_params": 797184,
+  "checkpoints": {
+    "400": {
+      "seconds": 180.2362961769104,
+      "size_mb": 3.0767288208007812
+    },
+    "800": {
+      "seconds": 355.9356906414032,
+      "size_mb": 3.0767288208007812
+    }
+  }
+}

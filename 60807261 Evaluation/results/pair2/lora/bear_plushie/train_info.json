@@ -1,0 +1,20 @@
+{
+  "product": "bear_plushie",
+  "train_images": 4,
+  "prior_image_time_s": 135.48489713668823,
+  "train_time_s": 354.1383125782013,
+  "total_setup_time_s": 518.3658955097198,
+  "train_memory_mb": 2211.69384765625,
+  "lora_size_mb": 3.0767288208007812,
+  "trainable_params": 797184,
+  "checkpoints": {
+    "400": {
+      "seconds": 176.26013660430908,
+      "size_mb": 3.0767288208007812
+    },
+    "800": {
+      "seconds": 354.1383125782013,
+      "size_mb": 3.0767288208007812
+    }
+  }
+}

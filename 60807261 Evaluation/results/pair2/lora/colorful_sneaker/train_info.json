@@ -1,0 +1,20 @@
+{
+  "product": "colorful_sneaker",
+  "train_images": 4,
+  "prior_image_time_s": 204.12003874778748,
+  "train_time_s": 362.17776560783386,
+  "total_setup_time_s": 611.7501139640808,
+  "train_memory_mb": 2211.69384765625,
+  "lora_size_mb": 3.0767288208007812,
+  "trainable_params": 797184,
+  "checkpoints": {
+    "400": {
+      "seconds": 184.80933237075806,
+      "size_mb": 3.0767288208007812
+    },
+    "800": {
+      "seconds": 362.17776560783386,
+      "size_mb": 3.0767288208007812
+    }
+  }
+}
