@@ -6,14 +6,14 @@ Four head-to-head evaluations of AI models (eight models in total) for a fiction
 
 **Requirements:**
 - An NVIDIA GPU with at least 8 GB of memory (tested on an RTX 4060 Laptop, 8 GB), Windows 11.
-- Python 3.12 and Jupyter Notebook.
+- Python 3.12 and Jupdyter Notebook.
 - About 30 GB of free disk space, for the models and data.
 
 Run the notebooks in this order, from this folder:
 
 | Notebook | What it does | Approx. time |
 |---|---|---|
-| `00_setup.ipynb` | Installs the pinned packages (restart the kernel afterwards), records hardware in `results/env.json`, downloads both datasets into `data/`, records model versions in `data/model_versions.json` | 30–60 min (downloads) |
+| `0_Environment_Setup_and_Dataset_Preparation.ipynb` | Installs the pinned packages (restart the kernel afterwards), records hardware in `results/env.json`, downloads both datasets into `data/`, records model versions in `data/model_versions.json` | 30–60 min (downloads) |
 | `01_pair1_image_editing.ipynb` | Pair 1: ControlNet-Canny + SD 1.5 vs InstructPix2Pix | ~30 min |
 | `02_pair2_personalisation.ipynb` | Pair 2: DreamBooth-LoRA vs IP-Adapter | ~1 h |
 | `03_pair3_fraud_detection.ipynb` | Pair 3: GraphSAGE vs FAGCN (MLP and GCN as baselines) | ~30 min |
